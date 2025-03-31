@@ -109,10 +109,15 @@ for idx in I[0]:
 
 ---
 
+▶️ Reference Video
+Watch the complete walkthrough here: 🔗 [YouTube Project Guide](https://www.youtube.com/watch?si=COpqRri8MJgxsLxc&v=epidA1fBFtI&feature=youtu.be)
+
+---
+
 ## Author
 
 **Jeny Sherchan**  
-MSIT Student, UMass Boston  
+MSIT Candidate, UMass Boston  
 Connect via LinkedIn or email for questions!
 
 ---
