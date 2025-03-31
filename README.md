@@ -24,11 +24,8 @@ pip install numpy pandas faiss-cpu requests
 
 ## Step 1: Download and Run LLaMA Locally
 
-You need to install [Ollama](https://ollama.com/) to run LLaMA models locally.
+You need to install Ollama from [Ollama's website](https://ollama.com/) to run LLaMA models locally.
 
-### Install Ollama
-
-Download and install it from: https://ollama.com/download
 
 ### Pull the LLaMA3 model
 
@@ -44,7 +41,7 @@ Ensure your local Ollama server is running (usually starts on http://localhost:1
 
 ## Step 2: Prepare Your Dataset
 
-Download or use `netflix_titles.csv` with the following columns:
+Download the dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) or use `netflix_titles.csv` with the following columns:
 
 - `title`, `type`, `cast`, `director`, `release_year`, `listed_in`, `description`
 
